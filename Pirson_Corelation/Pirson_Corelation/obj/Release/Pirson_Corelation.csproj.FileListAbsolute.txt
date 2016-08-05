@@ -1,0 +1,6 @@
+F:\C#\Solution\Console\Pirson_Corelation\Pirson_Corelation\bin\Release\Pirson_Corelation.exe.config
+F:\C#\Solution\Console\Pirson_Corelation\Pirson_Corelation\bin\Release\Pirson_Corelation.exe
+F:\C#\Solution\Console\Pirson_Corelation\Pirson_Corelation\bin\Release\Pirson_Corelation.pdb
+F:\C#\Solution\Console\Pirson_Corelation\Pirson_Corelation\obj\Release\Pirson_Corelation.exe
+F:\C#\Solution\Console\Pirson_Corelation\Pirson_Corelation\obj\Release\Pirson_Corelation.pdb
+F:\C#\Solution\Console\Pirson_Corelation\Pirson_Corelation\obj\Release\Pirson_Corelation.csprojResolveAssemblyReference.cache

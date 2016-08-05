@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pirson_Corelation", "Pirson_Corelation\Pirson_Corelation.csproj", "{3158E4E6-1661-43C9-A110-F01A4219DBA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+		Кафедра|Any CPU = Кафедра|Any CPU
+		Кафедра|x86 = Кафедра|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3158E4E6-1661-43C9-A110-F01A4219DBA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3158E4E6-1661-43C9-A110-F01A4219DBA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3158E4E6-1661-43C9-A110-F01A4219DBA6}.Debug|x86.ActiveCfg = Debug|x86
+		{3158E4E6-1661-43C9-A110-F01A4219DBA6}.Debug|x86.Build.0 = Debug|x86
+		{3158E4E6-1661-43C9-A110-F01A4219DBA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3158E4E6-1661-43C9-A110-F01A4219DBA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3158E4E6-1661-43C9-A110-F01A4219DBA6}.Release|x86.ActiveCfg = Release|x86
+		{3158E4E6-1661-43C9-A110-F01A4219DBA6}.Release|x86.Build.0 = Release|x86
+		{3158E4E6-1661-43C9-A110-F01A4219DBA6}.Кафедра|Any CPU.ActiveCfg = Кафедра|Any CPU
+		{3158E4E6-1661-43C9-A110-F01A4219DBA6}.Кафедра|Any CPU.Build.0 = Кафедра|Any CPU
+		{3158E4E6-1661-43C9-A110-F01A4219DBA6}.Кафедра|x86.ActiveCfg = Кафедра|x86
+		{3158E4E6-1661-43C9-A110-F01A4219DBA6}.Кафедра|x86.Build.0 = Кафедра|x86
+		{3158E4E6-1661-43C9-A110-F01A4219DBA6}.Кафедра|x86.Deploy.0 = Кафедра|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
