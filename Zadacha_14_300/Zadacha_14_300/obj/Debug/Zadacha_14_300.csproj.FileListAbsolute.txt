@@ -1,0 +1,6 @@
+F:\C#\Юре\Zadacha_14_300\Zadacha_14_300\bin\Debug\Zadacha_14_300.exe.config
+F:\C#\Юре\Zadacha_14_300\Zadacha_14_300\bin\Debug\Zadacha_14_300.exe
+F:\C#\Юре\Zadacha_14_300\Zadacha_14_300\bin\Debug\Zadacha_14_300.pdb
+F:\C#\Юре\Zadacha_14_300\Zadacha_14_300\obj\Debug\Zadacha_14_300.csprojResolveAssemblyReference.cache
+F:\C#\Юре\Zadacha_14_300\Zadacha_14_300\obj\Debug\Zadacha_14_300.exe
+F:\C#\Юре\Zadacha_14_300\Zadacha_14_300\obj\Debug\Zadacha_14_300.pdb

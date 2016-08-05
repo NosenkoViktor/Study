@@ -1,0 +1,7 @@
+C:\Documents and Settings\ртлитрл\Local Settings\Application Data\Temporary Projects\Zadacha_19_300\bin\Debug\Zadacha_19_300.exe
+C:\Documents and Settings\ртлитрл\Local Settings\Application Data\Temporary Projects\Zadacha_19_300\bin\Debug\Zadacha_19_300.pdb
+C:\Documents and Settings\ртлитрл\Local Settings\Application Data\Temporary Projects\Zadacha_19_300\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ртлитрл\Local Settings\Application Data\Temporary Projects\Zadacha_19_300\obj\x86\Debug\Zadacha_19_300.exe
+C:\Documents and Settings\ртлитрл\Local Settings\Application Data\Temporary Projects\Zadacha_19_300\obj\x86\Debug\Zadacha_19_300.pdb
+C:\Носенко\Project C #\Zadacha_19_300\Zadacha_19_300\obj\x86\Debug\Zadacha_19_300.exe
+C:\Носенко\Project C #\Zadacha_19_300\Zadacha_19_300\obj\x86\Debug\Zadacha_19_300.pdb

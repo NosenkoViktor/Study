@@ -1,0 +1,7 @@
+C:\Documents and Settings\ртлитрл\Local Settings\Application Data\Temporary Projects\Zadacha_32_301\bin\Debug\Zadacha_32_301.exe
+C:\Documents and Settings\ртлитрл\Local Settings\Application Data\Temporary Projects\Zadacha_32_301\bin\Debug\Zadacha_32_301.pdb
+C:\Documents and Settings\ртлитрл\Local Settings\Application Data\Temporary Projects\Zadacha_32_301\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ртлитрл\Local Settings\Application Data\Temporary Projects\Zadacha_32_301\obj\x86\Debug\Zadacha_32_301.exe
+C:\Documents and Settings\ртлитрл\Local Settings\Application Data\Temporary Projects\Zadacha_32_301\obj\x86\Debug\Zadacha_32_301.pdb
+C:\Носенко\Project C #\Zadacha_32_301\Zadacha_32_301\obj\x86\Debug\Zadacha_32_301.exe
+C:\Носенко\Project C #\Zadacha_32_301\Zadacha_32_301\obj\x86\Debug\Zadacha_32_301.pdb

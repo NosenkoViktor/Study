@@ -1,0 +1,12 @@
+C:\Documents and Settings\ртлитрл\Local Settings\Application Data\Temporary Projects\Zadachi_302\bin\Debug\Zadachi_302.exe
+C:\Documents and Settings\ртлитрл\Local Settings\Application Data\Temporary Projects\Zadachi_302\bin\Debug\Zadachi_302.pdb
+C:\Documents and Settings\ртлитрл\Local Settings\Application Data\Temporary Projects\Zadachi_302\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ртлитрл\Local Settings\Application Data\Temporary Projects\Zadachi_302\obj\x86\Debug\Zadachi_302.exe
+C:\Documents and Settings\ртлитрл\Local Settings\Application Data\Temporary Projects\Zadachi_302\obj\x86\Debug\Zadachi_302.pdb
+C:\Носенко\Project C #\Zadachi_302\Zadachi_302\obj\x86\Debug\Zadachi_302.exe
+C:\Носенко\Project C #\Zadachi_302\Zadachi_302\obj\x86\Debug\Zadachi_302.pdb
+F:\C#\Юре\Zadachi_302\Zadachi_302\obj\x86\Debug\Zadachi_302.exe
+F:\C#\Юре\Zadachi_302\Zadachi_302\obj\x86\Debug\Zadachi_302.pdb
+F:\C#\Юре\Zadachi_302\Zadachi_302\bin\Debug\Zadachi_302.exe
+F:\C#\Юре\Zadachi_302\Zadachi_302\bin\Debug\Zadachi_302.pdb
+F:\C#\Юре\Zadachi_302\Zadachi_302\obj\x86\Debug\Zadachi_302.csprojResolveAssemblyReference.cache

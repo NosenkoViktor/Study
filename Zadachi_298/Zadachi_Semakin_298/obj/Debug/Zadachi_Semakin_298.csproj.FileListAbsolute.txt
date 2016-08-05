@@ -1,0 +1,15 @@
+F:\C#\Zadachi_Semakin_298\Zadachi_Semakin_298\bin\Debug\Zadachi_Semakin_298.exe.config
+F:\C#\Zadachi_Semakin_298\Zadachi_Semakin_298\obj\Debug\Zadachi_Semakin_298.csprojResolveAssemblyReference.cache
+F:\C#\Zadachi_Semakin_298\Zadachi_Semakin_298\bin\Debug\Zadachi_Semakin_298.exe
+F:\C#\Zadachi_Semakin_298\Zadachi_Semakin_298\bin\Debug\Zadachi_Semakin_298.pdb
+F:\C#\Zadachi_Semakin_298\Zadachi_Semakin_298\obj\Debug\Zadachi_Semakin_298.exe
+F:\C#\Zadachi_Semakin_298\Zadachi_Semakin_298\obj\Debug\Zadachi_Semakin_298.pdb
+F:\C#\Юре\Zadachi_Semakin_298\Zadachi_Semakin_298\bin\Debug\Zadachi_Semakin_298.exe.config
+F:\C#\Юре\Zadachi_Semakin_298\Zadachi_Semakin_298\obj\Debug\Zadachi_Semakin_298.exe
+F:\C#\Юре\Zadachi_Semakin_298\Zadachi_Semakin_298\obj\Debug\Zadachi_Semakin_298.pdb
+F:\C#\Юре\Zadachi_Semakin_298\Zadachi_Semakin_298\bin\Debug\Zadachi_Semakin_298.exe
+F:\C#\Юре\Zadachi_Semakin_298\Zadachi_Semakin_298\bin\Debug\Zadachi_Semakin_298.pdb
+F:\C#\Юре\Zadachi_Semakin_298\Zadachi_Semakin_298\obj\Debug\Zadachi_Semakin_298.csprojResolveAssemblyReference.cache
+F:\C#\Юре\Zadachi_298\Zadachi_Semakin_298\bin\Debug\Zadachi_Semakin_298.exe.config
+F:\C#\Юре\Zadachi_298\Zadachi_Semakin_298\obj\Debug\Zadachi_Semakin_298.exe
+F:\C#\Юре\Zadachi_298\Zadachi_Semakin_298\obj\Debug\Zadachi_Semakin_298.pdb

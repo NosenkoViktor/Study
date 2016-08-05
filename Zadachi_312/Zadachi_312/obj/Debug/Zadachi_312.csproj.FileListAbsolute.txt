@@ -1,0 +1,6 @@
+F:\C#\Юре\Zadachi_312\Zadachi_312\bin\Debug\Zadachi_312.exe.config
+F:\C#\Юре\Zadachi_312\Zadachi_312\bin\Debug\Zadachi_312.exe
+F:\C#\Юре\Zadachi_312\Zadachi_312\bin\Debug\Zadachi_312.pdb
+F:\C#\Юре\Zadachi_312\Zadachi_312\obj\Debug\Zadachi_312.exe
+F:\C#\Юре\Zadachi_312\Zadachi_312\obj\Debug\Zadachi_312.pdb
+F:\C#\Юре\Zadachi_312\Zadachi_312\obj\Debug\Zadachi_312.csprojResolveAssemblyReference.cache
