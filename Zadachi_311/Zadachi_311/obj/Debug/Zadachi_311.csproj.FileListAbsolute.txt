@@ -4,3 +4,9 @@ F:\C#\Юре\Zadachi_311\Zadachi_311\bin\Debug\Zadachi_311.pdb
 F:\C#\Юре\Zadachi_311\Zadachi_311\obj\Debug\Zadachi_311.csprojResolveAssemblyReference.cache
 F:\C#\Юре\Zadachi_311\Zadachi_311\obj\Debug\Zadachi_311.exe
 F:\C#\Юре\Zadachi_311\Zadachi_311\obj\Debug\Zadachi_311.pdb
+F:\C#\Study\Zadachi_311\Zadachi_311\bin\Debug\Zadachi_311.exe.config
+F:\C#\Study\Zadachi_311\Zadachi_311\obj\Debug\Zadachi_311.exe
+F:\C#\Study\Zadachi_311\Zadachi_311\obj\Debug\Zadachi_311.pdb
+F:\C#\Study\Zadachi_311\Zadachi_311\bin\Debug\Zadachi_311.exe
+F:\C#\Study\Zadachi_311\Zadachi_311\bin\Debug\Zadachi_311.pdb
+F:\C#\Study\Zadachi_311\Zadachi_311\obj\Debug\Zadachi_311.csprojResolveAssemblyReference.cache

@@ -52,7 +52,8 @@ namespace Zadachi_302
             string s = Console.ReadLine();
             if (int.TryParse(s, out x) && s.Length == 3)
             {
-                int firstSum = s[0] + s[1] + s[2];
+                int firstSum = x/100 + x/10%10 + x%10;
+                Console.WriteLine(firstSum);
                 if (firstSum % 2 == 0) return "true";
                 else return "false";
             }

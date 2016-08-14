@@ -29,7 +29,16 @@ namespace Zadacha_32_301
             // а свойство Hours дает временной интервал в "текущих" сутках
             // все остальное находим с помощью свойств Minutes и Seconds обьекта класса
             Console.WriteLine("{0}:{1:0}:{2:0}", t / 3600, ts.Minutes, ts.Seconds);
+
+            // Не використовуючи класів .NET
+            Console.WriteLine(IntToDate(t));
+
             Console.ReadKey(); 
+        }
+
+        public static string IntToDate(ulong timeInSecond)
+        {
+            return string.Format("{0}:{1}:{2}", timeInSecond / 3600, timeInSecond / 60 % 60, timeInSecond % 60);
         }
     }
 }

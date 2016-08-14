@@ -23,8 +23,9 @@ namespace Zadacha_16_300
 
         public static void Operation(double x, out double result1, out double result2)
         {
-            result1 = -2 * x + 3 * Math.Pow(x, 2) - 4 * Math.Pow(x, 3);
-            result2 = 1 + 2 * x + 3 * Math.Pow(x, 2) + 4 * Math.Pow(x, 3);
+            double a = 3 * Math.Pow(x, 2), b = 4 * Math.Pow(x, 3), c = 2 * x;
+            result1 = - c + a - b;
+            result2 = 1 + c + a + b;
         }
     }
 }

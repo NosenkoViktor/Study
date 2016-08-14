@@ -23,38 +23,11 @@ namespace Zadacha_14_300
 
             // Ввод данных с консоли
             Console.WriteLine("Введите коефициент a квадратного уравнения");
-            while (true)
-            {
-                if (!double.TryParse(Console.ReadLine(), out a)) 
-                {
-                    Console.ForegroundColor = ConsoleColor.Red;
-                    Console.WriteLine("Некоректный ввод повториет попытку");
-                    Console.ForegroundColor = ConsoleColor.Gray;
-                }
-                else break;
-            }
+            a = Entry();
             Console.WriteLine("Введите коефициент b квадратного уравнения");
-            while (true)
-            {
-                if (!double.TryParse(Console.ReadLine(), out b))
-                {
-                    Console.ForegroundColor = ConsoleColor.Red;
-                    Console.WriteLine("Некоректный ввод повториет попытку");
-                    Console.ForegroundColor = ConsoleColor.Gray;
-                }
-                else break;
-            }
+            b = Entry();
             Console.WriteLine("Введите коефициент c квадратного уравнения");
-            while (true)
-            {
-                if (!double.TryParse(Console.ReadLine(), out c))
-                {
-                    Console.ForegroundColor = ConsoleColor.Red;
-                    Console.WriteLine("Некоректный ввод повториет попытку");
-                    Console.ForegroundColor = ConsoleColor.Gray;
-                }
-                else break;
-            }
+            c = Entry();
 
             Console.WriteLine();
 
@@ -88,5 +61,20 @@ namespace Zadacha_14_300
 
             Console.ReadKey();
         }
+            public static double Entry()
+            {
+                double cof;
+                while (true)
+                {
+                    if (!double.TryParse(Console.ReadLine(), out cof)) 
+                    {
+                        Console.ForegroundColor = ConsoleColor.Red;
+                        Console.WriteLine("Некоректный ввод повториет попытку");
+                        Console.ForegroundColor = ConsoleColor.Gray;
+                    }
+                    else break;
+                }
+                return cof;
+            }    
     }
 }

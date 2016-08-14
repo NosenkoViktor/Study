@@ -3,3 +3,8 @@ C:\Documents and Settings\ртлитрл\Local Settings\Application Data\Tempora
 C:\Documents and Settings\ртлитрл\Local Settings\Application Data\Temporary Projects\Zadacha_14_300\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\Documents and Settings\ртлитрл\Local Settings\Application Data\Temporary Projects\Zadacha_14_300\obj\x86\Debug\Zadacha_14_300.exe
 C:\Documents and Settings\ртлитрл\Local Settings\Application Data\Temporary Projects\Zadacha_14_300\obj\x86\Debug\Zadacha_14_300.pdb
+F:\C#\Study\Zadacha_16_300\Zadacha_16_300\bin\Debug\Zadacha_16_300.exe
+F:\C#\Study\Zadacha_16_300\Zadacha_16_300\bin\Debug\Zadacha_16_300.pdb
+F:\C#\Study\Zadacha_16_300\Zadacha_16_300\obj\x86\Debug\Zadacha_16_300.csprojResolveAssemblyReference.cache
+F:\C#\Study\Zadacha_16_300\Zadacha_16_300\obj\x86\Debug\Zadacha_16_300.exe
+F:\C#\Study\Zadacha_16_300\Zadacha_16_300\obj\x86\Debug\Zadacha_16_300.pdb

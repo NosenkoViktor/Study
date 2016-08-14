@@ -10,3 +10,9 @@ F:\C#\Юре\Zadacha_7_300\Zadacha_7_300\obj\Debug\Zadacha_7_300.pdb
 F:\C#\Юре\Zadacha_7_300\Zadacha_7_300\bin\Debug\Zadacha_7_300.exe
 F:\C#\Юре\Zadacha_7_300\Zadacha_7_300\bin\Debug\Zadacha_7_300.pdb
 F:\C#\Юре\Zadacha_7_300\Zadacha_7_300\obj\Debug\Zadacha_7_300.csprojResolveAssemblyReference.cache
+F:\C#\Study\Zadacha_7_300\Zadacha_7_300\bin\Debug\Zadacha_7_300.exe.config
+F:\C#\Study\Zadacha_7_300\Zadacha_7_300\obj\Debug\Zadacha_7_300.exe
+F:\C#\Study\Zadacha_7_300\Zadacha_7_300\obj\Debug\Zadacha_7_300.pdb
+F:\C#\Study\Zadacha_7_300\Zadacha_7_300\bin\Debug\Zadacha_7_300.exe
+F:\C#\Study\Zadacha_7_300\Zadacha_7_300\bin\Debug\Zadacha_7_300.pdb
+F:\C#\Study\Zadacha_7_300\Zadacha_7_300\obj\Debug\Zadacha_7_300.csprojResolveAssemblyReference.cache

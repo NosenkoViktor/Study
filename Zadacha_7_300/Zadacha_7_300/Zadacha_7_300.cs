@@ -45,6 +45,28 @@ namespace Zadacha_7_300
             // Вызов метода AllOperationXY
             Console.WriteLine(e2.AllOperationXY(out summ, out substr, out mult, out divis));
 
+            Console.WriteLine();
+            Console.WriteLine("Перегрузка операторов");
+            Elements d = e1+e2;
+            Console.WriteLine(d.ToString());
+            d = d - 3;
+            Console.WriteLine(d.ToString());
+            d++;
+            Console.WriteLine(d.ToString());
+            d--;
+            Console.WriteLine(d.ToString());
+            d = d * 2;
+            Console.WriteLine(d.ToString());
+            d = d/2;
+            Console.WriteLine(d.ToString());
+            d += 5;
+            Console.WriteLine(d.ToString());
+            d = d * e1;
+            Console.WriteLine(d.ToString());
+            Console.WriteLine(d == e1);
+            Console.WriteLine(e1 != e2);
+            
+
             // Задержка консоли
             Console.ReadKey();
         }
@@ -134,6 +156,84 @@ namespace Zadacha_7_300
                 substr,
                 mult,
                 divis);
+        }
+
+        // Перегрузка операторів 
+
+        // Перегрузка сумми для 2 х елементів і варіант з додаванням коефіцієнта
+        public static Elements operator +(Elements first, Elements second)
+        {
+            return new Elements(first.x + second.x, first.y + second.y);
+        }
+        public static Elements operator +(Elements a, double cof)
+        {
+            return new Elements(a.x + cof, a.y + cof);
+        }
+
+        // Те ж саме для різниці
+        public static Elements operator -(Elements first, Elements second)
+        {
+            return new Elements(first.x - second.x, first.y - second.y);
+        }
+        public static Elements operator -(Elements a, double cof)
+        {
+            return new Elements(a.x - cof, a.y - cof);
+        }
+
+        // Множення 
+        public static Elements operator *(Elements first, Elements second)
+        {
+            return new Elements(first.x * second.x, first.y * second.y);
+        }
+        public static Elements operator *(Elements a, double cof)
+        {
+            return new Elements(a.x * cof, a.y * cof);
+        }
+
+        // Ділення
+        public static Elements operator /(Elements first, Elements second)
+        {
+            if (second.x !=0 && second.y != 0) return new Elements(first.x / second.x, first.y / second.y);
+            else 
+            {
+                Console.WriteLine("Ділення на 0 недопустиме");
+                return new Elements(0, 0);
+            }
+        }
+
+        public static Elements operator /(Elements a, double cof)
+        {
+            if (cof != 0) return new Elements(a.x / cof, a.y / cof);
+            else
+            {
+                Console.WriteLine("Ділення на 0 недопустиме");
+                return new Elements(0, 0);
+            }
+        }
+
+        // Інкримент
+        public static Elements operator ++(Elements a)
+        {
+            return new Elements(a.x+1, a.y+1);
+        }
+
+        // Декримент
+        public static Elements operator --(Elements a)
+        {
+            return new Elements(a.x-1, a.y-1);
+        }
+
+        // Порівняння 
+        public static bool operator ==(Elements first, Elements second)
+        {
+            if (first.x == second.x && first.y == second.y) return true;
+            else return false;
+        }
+
+        public static bool operator !=(Elements first, Elements second)
+        {
+            if (first.x != second.x || first.y != second.y) return true;
+            else return false;
         }
     }
 }

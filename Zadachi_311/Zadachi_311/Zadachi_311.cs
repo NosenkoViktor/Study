@@ -34,14 +34,18 @@ namespace Zadachi_311
          */
         public static string Zadacha_1(double a,double b,double c)
         {
-            if (a >= 0) a = Math.Pow(a, 2);
-            else a = Math.Pow(a, 4);
-            if (b >= 0) b = Math.Pow(b, 2);
-            else b = Math.Pow(b, 4);
-            if (c >= 0) c = Math.Pow(c, 2);
-            else c = Math.Pow(c, 4);
+            a = MethodZadacha_1(a);
+            b = MethodZadacha_1(b);
+            c = MethodZadacha_1(c);
 
             return string.Format("a: {0}, b: {1}, c: {2}", a, b, c);
+        }
+
+        public static double MethodZadacha_1(double el)
+        {
+            if (el >= 0) el = Math.Pow(el, 2);
+            else el = Math.Pow(el, 4);
+            return el;
         }
 
         /* 6. Даны целые числа m,n. Если числа не равны, то заменить
